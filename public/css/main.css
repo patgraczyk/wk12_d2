@@ -1,0 +1,15 @@
+img {
+  height: 20rem;
+  width: 35rem;
+  object-fit: cover;
+  object-position: center;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  height: 2rem;
+  background-color: lightblue;
+}
