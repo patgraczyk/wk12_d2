@@ -9,7 +9,11 @@ ul {
   list-style: none;
 }
 
-li {
+#planets-menu li {
   height: 2rem;
   background-color: lightblue;
+}
+
+.hover {
+  background-color: blue;
 }
